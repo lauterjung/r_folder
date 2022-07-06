@@ -5,3 +5,5 @@ For more details, I recommend reading the respective articles, which can be foun
 https://npft.cca.ufsc.br/publicacoes/  
 https://npft.cca.ufsc.br/publicacoes/artigos/  
 
+## clock_gif
+![alt text](https://github.com/lauterjung/r_images/blob/main/clock_gif/example_1.gif)
