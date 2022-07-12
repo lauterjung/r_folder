@@ -6,4 +6,9 @@ https://npft.cca.ufsc.br/publicacoes/
 https://npft.cca.ufsc.br/publicacoes/artigos/  
 
 ## clock_gif
-![alt text](https://github.com/lauterjung/r_images/blob/main/clock_gif/clock_gif.gif)
+Accelerated clock gif
+![alt text](https://github.com/lauterjung/r_images/blob/main/clock_gif/clock_gif.gif)  
+  
+## dna_strand
+Simple DNA strand  
+![alt text](https://github.com/lauterjung/r_images/blob/main/dna_strand/dna_strand.png)  

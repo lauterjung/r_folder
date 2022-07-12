@@ -29,7 +29,8 @@ for (i in 0:4320) {
   for (j in 1:12) {
     tick_degrees <- 30 * j - 180
     tick_rad_degrees <- tick_degrees * pi / 180
-    lines(c(1 * cos(tick_ang), 1 * cos(tick_ang) - subtick * cos(tick_ang)), c(1 * sin(tick_ang), 1 * sin(tick_ang) - subtick * sin(tick_ang)))
+    lines(c(1 * cos(tick_ang), 1 * cos(tick_ang) - subtick * cos(tick_ang)),
+        c(1 * sin(tick_ang), 1 * sin(tick_ang) - subtick * sin(tick_ang)))
   }
 
   lines(c(0, xpos_minutes), c(0, ypos_minutes))
